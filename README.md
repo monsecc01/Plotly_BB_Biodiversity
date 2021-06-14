@@ -15,3 +15,5 @@ We created 3 charts:
 * Gauge Chart - Weekly Washing Frequency
 
 The three charts are used to visualize belly button bacterial data obtained from volunteers. The dashboard is interactive; the users are able to select the Test Subject's ID number from a drop down menu on the left. All three charts will update to display the data of the selected ID.
+
+The dashboard was published via GitHub pages for accessibility: https://monsecc01.github.io/Plotly_Deployment/
